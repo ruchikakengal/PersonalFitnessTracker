@@ -46,9 +46,9 @@ export default function Footer() {
           <p className="text-xs text-muted-foreground flex items-center gap-1">
             Made with <Heart className="w-3 h-3 text-accent" /> by FitPulse
           </p>
-          <a href="https://github.com/ruchikakengal/Implementation-of-Personal-Fitness-Tracker-using-Python" target="_blank" rel="noreferrer"
+          <a href="https://github.com/ruchikakengal/PersonalFitnessTracker" target="_blank" rel="noreferrer"
             className="text-xs text-muted-foreground hover:text-primary transition-colors flex items-center gap-1">
-            <Github className="w-3 h-3" /> Original Project
+            <Github className="w-3 h-3" /> RK 
           </a>
         </div>
       </div>
