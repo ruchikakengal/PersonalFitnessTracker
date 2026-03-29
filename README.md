@@ -1,4 +1,4 @@
-🏋️‍♂️ Personal Fitness Tracker
+# 🏋️‍♂️ Personal Fitness Tracker
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Flask-WebApp-green?style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/> </p> <p align="center"> 💪 Track • 📊 Analyze • 🤖 Improve Your Fitness Journey </p>
 📌 About the Project
 
