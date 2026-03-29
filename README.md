@@ -1,8 +1,10 @@
 # 🏋️‍♂️ Personal Fitness Tracker  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Live-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Build-Vite-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployment-Netlify-brightgreen?style=for-the-badge" />
 </p>
