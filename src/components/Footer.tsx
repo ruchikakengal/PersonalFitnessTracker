@@ -36,7 +36,8 @@ export default function Footer() {
           <div>
             <h4 className="font-heading font-semibold mb-4">About</h4>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Built with React, TypeScript, and ML-inspired fitness algorithms. Inspired by the Python Personal Fitness Tracker project.
+              Your PersonalFitnessTracker
+              Track calories, predict fitness outcomes, and get personalized diet & exercise recommendations — all powered by intelligent algorithms.
             </p>
           </div>
         </div>
