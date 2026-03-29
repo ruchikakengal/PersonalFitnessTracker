@@ -16,13 +16,14 @@ It combines Python + Machine Learning to provide insights like calorie predictio
 ✔️ Clean & Responsive UI
 ✔️ AI-based Fitness Insights
 
-🖼️ Project Preview
 
+🖼️ Project Preview
 (Add your screenshots here — highly recommended for portfolio)
 
 ![Home Page](assets/home.png)
 ![Dashboard](assets/dashboard.png)
 ![Tracker](assets/tracker.png)
+
 
 🛠️ Tech Stack
 💻 Frontend
@@ -36,6 +37,8 @@ Flask
 Scikit-learn
 Pandas
 NumPy
+
+
 📂 Project Structure
 PersonalFitnessTracker/
 │── static/              # CSS, JS, Images
@@ -44,6 +47,8 @@ PersonalFitnessTracker/
 │── app.py               # Main Flask App
 │── requirements.txt     # Dependencies
 │── README.md            # Project Documentation
+
+
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/ruchikakengal/PersonalFitnessTracker.git
@@ -61,11 +66,15 @@ pip install -r requirements.txt
 python app.py
 6️⃣ Open in Browser
 http://127.0.0.1:5000/
+
+
 🧠 How It Works
 User inputs fitness data
 Backend processes data using ML models
 Predictions (like calories burned) are generated
 Results are displayed via dashboard & charts
+
+
 🚀 Future Enhancements
 
 🔹 Mobile-friendly UI
