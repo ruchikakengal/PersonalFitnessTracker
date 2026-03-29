@@ -44,11 +44,11 @@ export default function Footer() {
 
         <div className="border-t border-border/50 mt-8 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-muted-foreground flex items-center gap-1">
-            Made with <Heart className="w-3 h-3 text-accent" /> by RK- AI Powered Personal-Fitness-Tracker
+            Built by <Heart className="w-3 h-3 text-accent" /> RK · AI Powered Personal-Fitness-Tracker
           </p>
           <a href="https://github.com/ruchikakengal/PersonalFitnessTracker" target="_blank" rel="noreferrer"
             className="text-xs text-muted-foreground hover:text-primary transition-colors flex items-center gap-1">
-            <Github className="w-3 h-3" /> Ruchika Kengal 
+            <Github className="w-3 h-3" /> Ruchika Kengal
           </a>
         </div>
       </div>
